@@ -24,5 +24,5 @@
 -   Switch to SSH if auth fails: `git remote set-url origin git@github.com:<user>/<repo>.git`
 -   If push rejected due to diverging history: `git pull --rebase` or fetch, merge, then push.
 # Reflection / next steps
--   Chapter does a good job moving from concept → practice.
+-   Chapter does a good job moving from concept to practice.
 -   Focus next on branching, merge conflicts, and PR workflow — those are the most useful next steps.
